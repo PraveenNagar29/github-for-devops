@@ -1,14 +1,14 @@
 
-   3 python testing.py
-   6 rm testing.py
-   7 git init
-  15 Get-ChildItem -Force
-  20 git add testing.py
-  23 git rm --cached testing.py
-  24 git status
-  25 git add testing.py
-  28 git commit -m "adding testing files"
-  29 git status
-  30 rm testing.py
-  32 git restore testing.py
+ python testing.py
+ rm testing.py
+ git init
+ Get-ChildItem -Force
+ git add testing.py
+ git rm --cached testing.py
+ git status
+git add testing.py
+git commit -m "adding testing files"
+git status
+rm testing.py
+git restore testing.py
   
