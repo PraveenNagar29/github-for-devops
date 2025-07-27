@@ -1,1 +1,1 @@
-print("hello my name is pravee nagar and i am a devops enginner and i am lerning git and github")
+print("hello my name is pravee nagar and ")
