@@ -1,7 +1,13 @@
-def my_function():
+"""
+This module contains test cases for the application.
+"""
 
-    a = 5
-    return a
+def test_sample():
+    """A sample test function."""
+    assert 1 + 1 == 2
 
 
-my_function()
+if __name__ == "__main__":
+    test_sample()
+    print("All tests passed.")
+
