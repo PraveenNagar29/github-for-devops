@@ -10,3 +10,4 @@ def test_sample():
 if __name__ == "__main__":
     test_sample()
     print("All tests passed.")
+
